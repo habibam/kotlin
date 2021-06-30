@@ -1,2 +1,2 @@
-This repo is for kotlin fun! Also some implementation of the hexagonal architecture
+This repo is for kotlin fun and some implementation of the hexagonal architecture
 
